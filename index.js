@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening Denzz.apk","Watching Denzz.apk"];
+const statusMessages = ["Follow My TIKTOK👁 !","And Subscribe My Youtube👁 !","Made By Denzz.apk👁 !","Im Protect Your Server👁 !"];
 
 
 let currentIndex = 0;
